@@ -1,0 +1,9 @@
+# Gemma Neopixel Rainbow sketch
+
+Traverse color spectrum across single pixel 
+
+**Hardware**
+- [Adafruit Gemma](https://www.adafruit.com/product/1222)
+- [NeoPixel](https://www.adafruit.com/product/1559)
+
+<img src="./gemma_neopixel_rainbow_bb.png?raw=true" width="400" alt="circuit diagram">
