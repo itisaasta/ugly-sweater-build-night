@@ -1,8 +1,9 @@
-# tech-wearables-build-night
-This repo is the one-stop-shop for anything technology wearables build night.
+# ugly-sweater-build-night
+This repo is the one-stop-shop for anything ugly sweater build night.
 
 ## Build Night Guide
-[Guide](https://github.com/HarvAce/tech-wearables-build-night/blob/master/technology-wearables-build-night-guide.pdf)
+If you would like to run your own local build event for ugly sweaters, you can use all of the materials in this repository and this guide.
+[Guide](https://github.com/HarvAce/ugly-sweater-build-night/blob/master/ugly-sweater-build-night-guide.pdf)
 
 ## Arduino IDE Installation
 NOTE: Even if you already have the Arduino IDE installed, you will need the Adafruit Board Support Package under "Additional Boards Manager URLs".
